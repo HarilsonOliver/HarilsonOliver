@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B433&width=435&lines=Ol%C3%A1%2C+me+chamo+Harilson!;Graduando+em+Sistemas+de+Informa%C3%A7%C3%A3o+pela+UESB;Sempre+em+busca+de+novos+conhecimentos+e+desafios)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B433&width=435&lines=Ol%C3%A1%2C+me+chamo+Harilson!;Graduando+em+Sistemas+de+Informa%C3%A7%C3%A3o+pela+UESB;Sempre+buscando+conhecimentos+e+desafios)](https://git.io/typing-svg)
 
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://github.com/LHTXQ/LHTXQ)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
