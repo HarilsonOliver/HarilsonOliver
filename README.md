@@ -1,13 +1,11 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=80&duration=8000&pause=1000&color=F71D1D&center=true&repeat=false&width=500&height=115&lines=%E1%9B%9F+%E1%9B%9E+%E1%9B%81+%E1%9A%BE" alt="Typing SVG" />
-</div>
-
 <h2>Conecte-se comigo</h2>
 
 <div align="center">
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harilsonpires/)
   [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/HarilsonOliver)
   [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/harilsonpires)
+  
 </div>
 
 <br>
