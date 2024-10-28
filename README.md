@@ -1,11 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B433&width=435&lines=Ol%C3%A1%2C+me+chamo+Harilson!;Graduando+em+Sistemas+de+Informa%C3%A7%C3%A3o+pela+UESB;Sempre+buscando+conhecimentos+e+desafios)](https://git.io/typing-svg)
 
 
-###
 
-<img align="center" height="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="400" />
-
-###
+<img height="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="600" />
 
 
 <h2>Conecte-se comigo</h2>
