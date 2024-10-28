@@ -11,10 +11,15 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0arKes&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=0arKes&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=20&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0arKes&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&custom_title=%20&line=F12A37&point=91040D&color=E1E1E1" height="290" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarilsonOliver&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarilsonOliver&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarilsonOliver&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarilsonOliver&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 
 <div align="center">
   <h2>Programming Languages</h2>
