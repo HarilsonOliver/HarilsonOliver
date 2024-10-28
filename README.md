@@ -3,7 +3,7 @@
 
 ###
 
-<img height="150" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"  />
+<img align="center" height="150" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="400" />
 
 ###
 
