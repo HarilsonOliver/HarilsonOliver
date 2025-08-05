@@ -1,11 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B433&width=435&lines=Ol%C3%A1%2C+me+chamo+Harilson!;Graduando+em+Sistemas+de+Informa%C3%A7%C3%A3o+pela+UESB;Sempre+buscando+conhecimento)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B433&width=435&lines=Hello%2C+my+name+is+Harilson!;Undergraduate+student+in+Information+Systems+at+UESB;Always+seeking+knowledge)](https://git.io/typing-svg)
 
 <img height="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="600" />
 
-
-<h2>Conecte-se comigo</h2>
+## Connect with me
 
 <div align="center">
   
